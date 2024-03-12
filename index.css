@@ -1,16 +1,19 @@
 body{
-    background-color: black;
     color: red;
     margin: 0;
     padding: 0;
     height: 100%;
 }
 
+.landingpage{
+    background-image: url(imgs/Black\ Minimal\ Modern\ Fashion\ Style\ Desktop\ Prototype.png);
+    background-size: cover;
+    padding: 40px;
+}
 .cabecalho{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 20px;
 }
 
 .fotoperfil{
@@ -34,7 +37,7 @@ a{
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    margin: 20px;
+    margin-top: 20px;
     
 }
 
