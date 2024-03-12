@@ -4,7 +4,6 @@ body{
     margin: 0;
     padding: 0;
     height: 100%;
-    
 }
 
 .cabecalho{
@@ -37,4 +36,8 @@ a{
     flex-direction: row;
     margin: 20px;
     
+}
+
+.imagemmeio{
+    border-radius: 20px;
 }
